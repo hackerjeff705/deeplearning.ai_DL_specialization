@@ -16,7 +16,7 @@ The following ML libraries used:
 <br/>
 
 ## Certificate of Completion
-You can see the [Certificate of Completion](https://github.com/hackerjeff705/AndrewNG_DL_specialization/tree/main/Certificates) and other certificates in my [Linked In](www.linkedin.com/in/jeff-paulo-fernandez-b37183152).
+You can see the [Certificate of Completion](https://github.com/hackerjeff705/deeplearning.ai_DL_specialization) and other certificates in my [Linked In](www.linkedin.com/in/jeff-paulo-fernandez-b37183152).
 
 
 
