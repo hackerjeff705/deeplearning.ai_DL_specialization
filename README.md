@@ -16,7 +16,7 @@ The following ML libraries used:
 <br/>
 
 ## Certificate of Completion
-[Certificate of Completion](https://github.com/hackerjeff705/deeplearning.ai_DL_specialization) is on the github page. For other certificates, please go to [Linked In](www.linkedin.com/in/jeff-paulo-fernandez-b37183152).
+[Certificate of Completion](https://github.com/hackerjeff705/deeplearning.ai_DL_specialization) is on the github page. For other certificates, please go to [Linked In](https://www.linkedin.com/in/jeff-paulo-fernandez-b37183152).
 
 
 
